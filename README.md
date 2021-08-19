@@ -1,7 +1,7 @@
 <h1 align="center">Weston Ganger</h1>
 
 <p align="center">
-<b>I am currently looking for a new software/web development position as a Senior Rails developer. Remote Only.</b>
+<b>I am currently looking for a new software/web development position as a Software Architect or Senior Rails developer. Remote Only.</b>
 <br>
 <b>I am located in the PST time zone in the Lower Mainland, BC, Canada</b>
 <br>
